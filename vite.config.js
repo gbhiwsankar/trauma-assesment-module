@@ -5,5 +5,5 @@ import { defineConfig } from 'vite'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react(), tailwindcss()],
-  base: '/trauma-assesment-module/',
+  base: '/trauma-assessment-module/',
 })
